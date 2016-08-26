@@ -1,0 +1,14 @@
+layout_spectrum: 0.951257987646386
+typography_spectrum: 0.008103240048512816
+color:
+  brandStrength: 0.34828894305974245
+  lightness: 0.5241702045314014
+  saturation: 0.8795025921426713
+  rhythmicContrast: 0.5534207567106932
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Ubicom
