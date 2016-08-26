@@ -6,9 +6,9 @@ color:
   saturation: 0.8795025921426713
   rhythmicContrast: 0.5534207567106932
   brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Ubicom
